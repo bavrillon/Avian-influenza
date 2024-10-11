@@ -1,0 +1,2 @@
+README.txt (text/plain) 5262 bytes.
+Avian_influenza_wildlife_surveillance_France_2016_to_2022.csv (text/comma-separated-values) 505574 bytes.
