@@ -1,5 +1,3 @@
-test
-
 This README file was generated on 2023-11-27 by Palumbo Loïc
 Last updated: 2023-11-27.
  
