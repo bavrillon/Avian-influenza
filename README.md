@@ -9,4 +9,5 @@ https://entrepot.recherche.data.gouv.fr/dataset.xhtml;jsessionid=b5459eed450b212
 
 Structure du Notebook :
 Après avoir réalisé un prétraitement des données, facilitant leur exploitation, nous explorons leurs caractéristiques, et visualisons les informations essentielles pour comprendre la dynamique et les occurrences de cette maladie, sur un plan temporel, mais aussi géographique.
+L'étude menée permettra notamment de mettre en valeur des espèces les plus touchées par les épidémies, de mesurer l’impact des ZRP, d'identifier les départements où la surveillance hors ZRP pourrait être renforcée ou encore de conduire une analyse spatiale approfondie des épidémie avec l'aide d'heatmaps de densité.
 
