@@ -1,4 +1,4 @@
-# Avian-influenza
+# Etude des épidémies de grippe aviaire (Avian-influenza) en France
 
 Ce dépot tenu par Bastien AVRILLON et Honoré BOIARSKY héberge une analyse exploratoire des données de surveillance de la grippe aviaire chez les oiseaux en France, de 2016 à 2022.
 Celle-ci s'appuye sur des données publiée sur le site data.gouv par Loïc PALUMBO, Anne VAN de Wiele et Nicolas TOULET en 2023.
